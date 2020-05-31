@@ -1,0 +1,3 @@
+C:/Users/jccx1/CLionProjects/project_ideass/cmake-build-debug/CMakeFiles/project_ideass.dir
+C:/Users/jccx1/CLionProjects/project_ideass/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jccx1/CLionProjects/project_ideass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
